@@ -1,0 +1,32 @@
+/*Default CSS  */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.laptop{
+    color: #6f42c1;
+    font-size: 200px;
+    text-align: center;
+}
+
+.pad-div{
+    color: white;
+    background-color: rgb(10, 182, 82);
+    display: inline-block;
+    border-color: rgb(10, 24, 214);
+    border-style: solid;
+    border-width: 50px;
+    margin: 10px 100px 20px 100px;
+    padding: 30px 40px 40px 10px;
+}
+
+.botton{
+    background-color: aqua;
+    padding: 10px 15px 10px 15px;
+    display: inline-block;
+    margin: 10px 15px 10px 15px;
+    text-decoration: none;
+    border: 5px solid skyblue;
+}
